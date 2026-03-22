@@ -10,7 +10,7 @@ body{
     font-family: sans-serif;
 }
 
-.app{
+#app{
         max-width: 650px;
         width: 100%;
         margin: 0 auto;
